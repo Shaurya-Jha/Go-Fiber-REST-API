@@ -2,6 +2,12 @@
 
 - Description - REST API made with fiber framework that manages tasks in real-time. Some more changes will be incorporated in near future.
 
+### Framework used
+- Fiber for Go
+
+### External packages used
+- google's uuid for creating uuid for each tasks
+
 ### Routes
 
 - GET /api/tasks - get all tasks
